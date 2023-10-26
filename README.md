@@ -1,7 +1,7 @@
 # Hacktoberfest Event
 
 Welcome to the Hacktoberfest Event repository! 🎉
-
+follow this link to verify participation: https://forms.gle/aBiTSLaV7UWzhGHHA
 ## About
 
 This repository is your go-to resource for participating in Hacktoberfest 2023. Whether you're a novice or an experienced coder, join us for a month of collaborative coding, learning, and celebrating open source contributions.
