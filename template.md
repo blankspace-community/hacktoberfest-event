@@ -1,6 +1,6 @@
 # Hacktoberfest 2023
 
-**Your name:**  
-**Your sem-batch-branch:**  
-**Fields you are interested in:**  
-**Your favourite programming language:**
+**Your name:Muhammed Salman**  
+**Your sem-batch-branch:s5 IT**  
+**Fields you are interested in:Backend**  
+**Your favourite programming language:js**
