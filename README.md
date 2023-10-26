@@ -18,4 +18,3 @@ This repository is your go-to resource for participating in Hacktoberfest 2023. 
 ## Participant Template
 
 Check out the `template.md` file to fill in your details and let the community know about your interests and expertise.
-
