@@ -1,6 +1,6 @@
 # Hacktoberfest 2023
 
-**Your name:**  
-**Your sem-batch-branch:**  
-**Fields you are interested in:**  
-**Your favourite programming language:**
+**Your name:Adithya Sreekumar**  
+**Your sem-batch-branch:S5 IT**  
+**Fields you are interested in:Coding**  
+**Your favourite programming language:Java**
